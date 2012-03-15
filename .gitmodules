@@ -1,0 +1,3 @@
+[submodule "stack"]
+	path = stack
+	url = git@github.com:rhlee/stack.git
